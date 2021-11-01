@@ -1,0 +1,2 @@
+class FlyingBird extends Bird{
+}
